@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: shanks.github.io
+  baseUrl: allenasat044-prog.github.io/doing-it-in-public
   ignorePatterns:
     - private
     - templates
