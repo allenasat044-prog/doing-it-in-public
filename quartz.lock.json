@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "obsidian-plugin-excalidraw": {
+      "source": "github:quartz-community/obsidian-plugin-excalidraw",
+      "resolved": "https://github.com/quartz-community/obsidian-plugin-excalidraw.git",
+      "commit": "997fc5f0bb0695a97c044fcb6838b5fbf0f9b854",
+      "installedAt": "2026-10-27T12:55:03.075Z"
+    }
+  }
+}
